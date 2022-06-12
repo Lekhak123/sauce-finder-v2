@@ -1,0 +1,23 @@
+{
+  "name": "saucebot-v2",
+  "version": "2.0.0",
+  "description": "A discord bot that finds source for the 2d image. Anime,hanime,artwork etc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "keywords": [
+    "phantom",
+    "classroom",
+    "program"
+  ],
+  "author": "phantom",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "extract-urls": "^1.3.2",
+    "got": "^11.8.2",
+    "pm2": "^5.2.0",
+    "saucenao.js": "^1.0.5"
+  }
+}
