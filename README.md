@@ -9,4 +9,4 @@ Inside config.json (configuration)
    - allowed_channels: The bot will only work in these channels, this can be an array
 
 
-Special thanks to [@JQweenq](https://github.com/JQweenq) for making the [SauceNao api](https://github.com/JQweenq/SauceNao.js)
+Special thanks to [@ilfey](https://github.com/ilfey) for making the [SauceNao api](https://github.com/JQweenq/SauceNao.js)
